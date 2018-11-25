@@ -14,4 +14,7 @@ public class Second {
     public void setNumber(int number) {
         this.number = number;
     }
+
+    public int a;
+    int b=6;
 }
