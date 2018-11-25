@@ -18,7 +18,7 @@ public class Second {
     public int a;
     int b = 6;
 
-    public String hello;
+    public String hell;
 
     public int getA() {
         return a;
@@ -30,6 +30,7 @@ public class Second {
 
     public void setHello(String hello) {
         this.hello = hello;
+
     }
 }
 
