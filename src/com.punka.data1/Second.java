@@ -16,5 +16,12 @@ public class Second {
     }
 
     public int a;
-    int b=6;
+    int b = 6;
+
+    public String hello;
+
+    public int getA() {
+        return a;
+    }
 }
+
