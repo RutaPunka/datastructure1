@@ -19,6 +19,7 @@ public class Second {
     int b = 6;
 
     public String helloo;
+    public String chau;
 
     public int getA() {
         return a;
