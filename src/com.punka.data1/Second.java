@@ -24,13 +24,13 @@ public class Second {
         return a;
     }
 
-    public String getHello() {
-        return hello;
+    public String getChau() {
+        return chau;
     }
 
-    public void setHello(String hello) {
-        this.hello = hello;
-
+    public void setChau(String chau) {
+        this.chau = chau;
     }
 }
+
 
