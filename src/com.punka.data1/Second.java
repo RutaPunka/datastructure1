@@ -26,11 +26,11 @@ public class Second {
     }
 
     public String getHello() {
-        return hello;
+        return helloo;
     }
 
     public void setHello(String hello) {
-        this.hello = hello;
+        this.helloo = hello;
 
     }
 }
