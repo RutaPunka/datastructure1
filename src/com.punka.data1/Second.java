@@ -30,6 +30,7 @@ public class Second {
 
     public void setHello(String hello) {
         this.hello = hello;
+
     }
 }
 
